@@ -8,16 +8,16 @@
     | ![assembly](img/PNG_200/UNIT.png) | [archive - parts bundle](CAD/v4/STL/UNIT.zip) |
     | ![Light diffuser](img/PNG_200/UNIT_LIFGHT-DIFFUSER_Light_diffuser.png) | [Light diffuser](CAD/v4/STL/UNIT_LIFGHT-DIFFUSER_Light_diffuser.stl) |
     | ![Light separator](img/PNG_200/UNIT_LIFGHT-DIFFUSER_Light_separator.png) | [Light separator](CAD/v4/STL/UNIT_LIFGHT-DIFFUSER_Light_separator.stl) |
-    | ![Base - lower housing (plain)](img/PNG_200/UNIT_MCU_base_plain.png) | [Base - lower housing (plain)](CAD/v4/STL/UNIT_MCU_base_plain.stl) |
-    | ![Base - lower housing](img/PNG_200/UNIT_MCU_base_embossed.png) | [Base - lower housing](CAD/v4/STL/UNIT_MCU_base_embossed.stl) |
+    | ![Base - lower housing (plain)](img/PNG_200/UNIT_MCU_base_plain.png) | [Base  MCU - lower housing (plain)](CAD/v4/STL/UNIT_MCU_base_plain.stl) |
+    | ![Base - lower housing](img/PNG_200/UNIT_MCU_base_embossed.png) | [Base  MCU - lower housing](CAD/v4/STL/UNIT_MCU_base_embossed.stl) |
     | ![UTP cable duct](img/PNG_200/UNIT_MCU_cable_duct_UTP.png) | [UTP cable duct](CAD/v4/STL/UNIT_MCU_cable_duct_UTP.stl) |
     | ![Cable duct](img/PNG_200/UNIT_MCU_cable_duct.png) | [Cable duct](CAD/v4/STL/UNIT_MCU_cable_duct.stl) |
     | ![MCU electronics bay back cover](img/PNG_200/UNIT_MCU_Back-Cover-3-ports.png) | [MCU electronics bay back cover](CAD/v4/STL/UNIT_MCU_Back-Cover-3-ports.stl) |
     | ![Display enclosure](img/PNG_200/UNIT_STANDALONE-FRONT-PANEL_ENCLOSURE.png) | [Display enclosure](CAD/v4/STL/UNIT_STANDALONE-FRONT-PANEL_ENCLOSURE.stl) |
     | ![Knob](img/PNG_200/UNIT_STANDALONE-FRONT-PANEL_Knob_2.1.png) | [Knob](CAD/v4/STL/UNIT_STANDALONE-FRONT-PANEL_Knob_2.1.stl) |
     | ![Display panel](img/PNG_200/UNIT_STANDALONE-FRONT-PANEL_IDRYER_UNIT_display_panel3.png) | [Display panel](CAD/v4/STL/UNIT_STANDALONE-FRONT-PANEL_IDRYER_UNIT_display_panel3.stl) |
-    | ![Base - lower housing (plain)](img/PNG_200/UNIT_EXT_base_plain.png) | [Base - lower housing (plain)](CAD/v4/STL/UNIT_EXT_base_plain.stl) |
-    | ![Base - lower housing](img/PNG_200/UNIT_EXT_base_embossed.png) | [Base - lower housing](CAD/v4/STL/UNIT_EXT_base_embossed.stl) |
+    | ![Base - lower housing (plain)](img/PNG_200/UNIT_EXT_base_plain.png) | [Base EXT - lower housing (plain)](CAD/v4/STL/UNIT_EXT_base_plain.stl) |
+    | ![Base - lower housing](img/PNG_200/UNIT_EXT_base_embossed.png) | [Base EXT - lower housing](CAD/v4/STL/UNIT_EXT_base_embossed.stl) |
     | ![EXT electronics bay back cover](img/PNG_200/UNIT_EXT_Back-Cover-1-port.png) | [EXT electronics bay back cover](CAD/v4/STL/UNIT_EXT_Back-Cover-1-port.stl) |
     | ![Top cover](img/PNG_200/UNIT_top_cover_embossed.png) | [Top cover](CAD/v4/STL/UNIT_top_cover_embossed.stl) |
     | ![Top cover (plain)](img/PNG_200/UNIT_top_cover_plain.png) | [Top cover (plain)](CAD/v4/STL/UNIT_top_cover_plain.stl) |

@@ -9,16 +9,16 @@
     | ![сборка](img/PNG_200/UNIT.png) | [архив - комплект деталей](CAD/v4/STL/UNIT.zip) |
     | ![Рассеиватель](img/PNG_200/UNIT_LIFGHT-DIFFUSER_Light_diffuser.png) | [Рассеиватель](CAD/v4/STL/UNIT_LIFGHT-DIFFUSER_Light_diffuser.stl) |
     | ![Сепаратор](img/PNG_200/UNIT_LIFGHT-DIFFUSER_Light_separator.png) | [Сепаратор](CAD/v4/STL/UNIT_LIFGHT-DIFFUSER_Light_separator.stl) |
-    | ![База - нижняя часть корпуса без барельефа](img/PNG_200/UNIT_MCU_base_plain.png) | [База - нижняя часть корпуса без барельефа](CAD/v4/STL/UNIT_MCU_base_plain.stl) |
-    | ![База - нижняя часть корпуса](img/PNG_200/UNIT_MCU_base_embossed.png) | [База - нижняя часть корпуса](CAD/v4/STL/UNIT_MCU_base_embossed.stl) |
+    | ![База - нижняя часть корпуса без барельефа](img/PNG_200/UNIT_MCU_base_plain.png) | [База MCU - нижняя часть корпуса без барельефа](CAD/v4/STL/UNIT_MCU_base_plain.stl) |
+    | ![База - нижняя часть корпуса](img/PNG_200/UNIT_MCU_base_embossed.png) | [База  MCU - нижняя часть корпуса](CAD/v4/STL/UNIT_MCU_base_embossed.stl) |
     | ![Кабель канал для укладки UTP кабеля](img/PNG_200/UNIT_MCU_cable_duct_UTP.png) | [Кабель канал для укладки UTP кабеля](CAD/v4/STL/UNIT_MCU_cable_duct_UTP.stl) |
     | ![Кабель канал](img/PNG_200/UNIT_MCU_cable_duct.png) | [Кабель канал](CAD/v4/STL/UNIT_MCU_cable_duct.stl) |
     | ![Задняя крышка отсека электроники MCU](img/PNG_200/UNIT_MCU_Back-Cover-3-ports.png) | [Задняя крышка отсека электроники MCU](CAD/v4/STL/UNIT_MCU_Back-Cover-3-ports.stl) |
     | ![Корпус дисплея](img/PNG_200/UNIT_STANDALONE-FRONT-PANEL_ENCLOSURE.png) | [Корпус дисплея](CAD/v4/STL/UNIT_STANDALONE-FRONT-PANEL_ENCLOSURE.stl) |
     | ![Ручка](img/PNG_200/UNIT_STANDALONE-FRONT-PANEL_Knob_2.1.png) | [Ручка](CAD/v4/STL/UNIT_STANDALONE-FRONT-PANEL_Knob_2.1.stl) |
     | ![Панель дисплаея](img/PNG_200/UNIT_STANDALONE-FRONT-PANEL_IDRYER_UNIT_display_panel3.png) | [Панель дисплаея](CAD/v4/STL/UNIT_STANDALONE-FRONT-PANEL_IDRYER_UNIT_display_panel3.stl) |
-    | ![База - нижняя часть корпуса без барельефа](img/PNG_200/UNIT_EXT_base_plain.png) | [База - нижняя часть корпуса без барельефа](CAD/v4/STL/UNIT_EXT_base_plain.stl) |
-    | ![База - нижняя часть корпуса](img/PNG_200/UNIT_EXT_base_embossed.png) | [База - нижняя часть корпуса](CAD/v4/STL/UNIT_EXT_base_embossed.stl) |
+    | ![База - нижняя часть корпуса без барельефа](img/PNG_200/UNIT_EXT_base_plain.png) | [База EXT - нижняя часть корпуса без барельефа](CAD/v4/STL/UNIT_EXT_base_plain.stl) |
+    | ![База - нижняя часть корпуса](img/PNG_200/UNIT_EXT_base_embossed.png) | [База EXT - нижняя часть корпуса](CAD/v4/STL/UNIT_EXT_base_embossed.stl) |
     | ![Задняя крышка отсека электроники EXT](img/PNG_200/UNIT_EXT_Back-Cover-1-port.png) | [Задняя крышка отсека электроники EXT](CAD/v4/STL/UNIT_EXT_Back-Cover-1-port.stl) |
     | ![Крышка - верхняя часть корпуса](img/PNG_200/UNIT_top_cover_embossed.png) | [Крышка - верхняя часть корпуса](CAD/v4/STL/UNIT_top_cover_embossed.stl) |
     | ![Крышка - верхняя часть корпуса без барельефа](img/PNG_200/UNIT_top_cover_plain.png) | [Крышка - верхняя часть корпуса без барельефа](CAD/v4/STL/UNIT_top_cover_plain.stl) |
