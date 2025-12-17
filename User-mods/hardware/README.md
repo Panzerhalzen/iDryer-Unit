@@ -1,11 +1,3 @@
-# Here is list of users hardware mods and articles
+Fan cover with spool stops
 
-_Place your mod name and short description to the list below.
-Please keep alphabetical ordering_
-
- * Example: 
-  
-   ** Name of first mod** - description of first mod here
-
----
-* **Start here**
+This mod is useful when using the iDryer Unit in the dual-spool configuration. The tall stops prevent the spool edge from rolling between the rollers and getting stuck there.
